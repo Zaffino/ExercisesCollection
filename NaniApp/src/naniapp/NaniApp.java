@@ -7,7 +7,7 @@ package naniapp;
 
 /**
  *
- * @author 71725655
+ * @author Zaffino
  */
 public class NaniApp {
 
