@@ -6,14 +6,18 @@
 package dindondanapp;
 
 /**
- *
- * @author 71725655
+ * 
+ * @author Zaffino
  */
 public class Campana implements Runnable{
 
     String suono;
     int volte;
     
+    /**
+    * @param suono suono sottoforma di stringa
+    * @param volte numero di ripetizioni
+    */
     
     public Campana(String suono, int volte){
         this.suono=suono;
